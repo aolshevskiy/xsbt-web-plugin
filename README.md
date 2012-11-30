@@ -1,1 +1,1 @@
-###Moved to http://github.com/JamesEarlDouglas/xsbt-web-plugin
+###Moved to [JamesEarlDouglas/xsbt-web-plugin](http://github.com/JamesEarlDouglas/xsbt-web-plugin)
