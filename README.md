@@ -1,4 +1,1 @@
-xsbt-web-plugin
-===============
-
-Web app support plugin for XSbt using Jetty Web Server 
+###Moved to http://github.com/JamesEarlDouglas/xsbt-web-plugin
